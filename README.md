@@ -7,7 +7,6 @@ This project presents an interactive Power BI dashboard built to analyze mobile 
 
 ## 📊 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
 
 ![Dashboard](Dashboard.png)
 
